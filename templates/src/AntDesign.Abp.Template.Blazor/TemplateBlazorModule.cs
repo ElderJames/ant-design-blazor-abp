@@ -2,7 +2,7 @@
 using System.Net.Http;
 using AntDesign.Abp.Template.Blazor.Menus;
 using AntDesign.Abp.Template.Blazor.Services;
-using AntDesign.Pro.Layout;
+using AntDesign.ProLayout;
 using IdentityModel;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Microsoft.Extensions.Configuration;
